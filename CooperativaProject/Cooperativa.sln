@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cooperativa", "Cooperativa\Cooperativa.csproj", "{5E5BD039-B77E-4D02-8352-7C58FFF10BBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cooperativa.Tests", "Cooperativa.Tests\Cooperativa.Tests.csproj", "{B8D160AA-A646-4F38-BE9F-7F48032D052B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E5BD039-B77E-4D02-8352-7C58FFF10BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5BD039-B77E-4D02-8352-7C58FFF10BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5BD039-B77E-4D02-8352-7C58FFF10BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5BD039-B77E-4D02-8352-7C58FFF10BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8D160AA-A646-4F38-BE9F-7F48032D052B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D160AA-A646-4F38-BE9F-7F48032D052B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D160AA-A646-4F38-BE9F-7F48032D052B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D160AA-A646-4F38-BE9F-7F48032D052B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
